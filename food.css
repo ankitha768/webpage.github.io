@@ -1,0 +1,29 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/close-up-ramen-noodles-soups-bowls_23-2148368744.jpg?w=900&t=st=1668580786~exp=1668581386~hmac=d077dd2db92537ba5162bbd3327a2d3503b029963c72ffbc2d56e8c7de6b5ffa");
+    height: 170vh;
+    background-size: cover;
+}
+
+.layoutcard{
+    background-color: aqua;
+    height: 200px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.heading{
+    color: black;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    font-family:Times New Roman, Times, serif;
+    font-family: bold;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+
+}
+.layoutcard button{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
